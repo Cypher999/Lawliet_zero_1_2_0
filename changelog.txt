@@ -1,0 +1,4 @@
+Lawliet_zero v 1.2.0
+
+changelog
+2. bug fixed when running the web without the library
